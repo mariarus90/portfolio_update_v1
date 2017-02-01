@@ -73,10 +73,6 @@ header .profile-image:hover {
   border-color: #8FBFD4;
 }
 
-.cat-image {
-  width: 150px;
-  border-radius: 100%;
-}
 
 .tag {
   background-color: #efefef;
@@ -86,10 +82,12 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 }
+
 .location {
   background-color: #222;
   color: yellow;
 }
+
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
@@ -100,6 +98,7 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+
 .card:hover {
   border-color: #8FBFD4;
 }
